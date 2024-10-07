@@ -1,6 +1,6 @@
 # Hola! 👋🏼 Soy Andrés.
 
-Me encanta el desarrollo Frontend, disfruto realizando maquetaciones de paginas web pensando en una excelente experiencia de usuario.
+Soy desarrollador con 5 años de experiencia en Java y Spring Boot, y 4 años en Angular. Tengo fortalezas en el diseño y maquetación de sitios web, y estoy apasionado por aprender nuevas tecnologías y mejorar mis habilidades constantemente.
 
 **Lenguajes y herramientas:** 
 
@@ -16,8 +16,7 @@ Me encanta el desarrollo Frontend, disfruto realizando maquetaciones de paginas 
 **Mis hobbies:**
 
 -Practicar deporte  
--Leer  
--Fotografia  
+-Leer
 -Viajar  
 
 <!--
